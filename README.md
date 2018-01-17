@@ -1,25 +1,17 @@
 # ReduxSimpleStarter
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Initially created a YouTube Search App with default video, and top 5 alternate selcections in side bar.
 
-### Getting Started
+### APIs
 
-There are two methods for getting started with this repo.
+So far YouTube search.
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+#### Libraries
+React/ReactDOM
+Lodash
+youtube-api-search
 
 ```
-> npm install
-> npm start
-```
+# Redux
+
+coming soon...
