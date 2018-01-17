@@ -11,7 +11,6 @@ React/ReactDOM
 Lodash
 youtube-api-search
 
-```
 # Redux
-
+```
 coming soon...
