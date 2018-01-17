@@ -1,5 +1,6 @@
 # ReduxSimpleStarter
 
+## React
 Initially created a YouTube Search App with default video, and top 5 alternate selcections in side bar.
 
 ### APIs
@@ -11,6 +12,6 @@ React/ReactDOM
 Lodash
 youtube-api-search
 
-# Redux
+## Redux
 ```
 coming soon...
